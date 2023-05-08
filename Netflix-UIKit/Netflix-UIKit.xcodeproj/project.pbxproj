@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0CA1FA0C2A0711BC006C41A4 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA1FA0B2A0711BC006C41A4 /* APICaller.swift */; };
 		0CD611D829FDB68000CE8289 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD611D729FDB68000CE8289 /* CollectionViewTableViewCell.swift */; };
 		0CD611DA29FF189C00CE8289 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD611D929FF189C00CE8289 /* HeroHeaderUIView.swift */; };
 		0CE9346929F8708D00BCCAEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE9346829F8708D00BCCAEA /* AppDelegate.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0CA1FA0B2A0711BC006C41A4 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		0CD611D729FDB68000CE8289 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		0CD611D929FF189C00CE8289 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		0CE9346529F8708D00BCCAEA /* Netflix-UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netflix-UIKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +82,7 @@
 		0CD611D629FDB62900CE8289 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				0CA1FA0B2A0711BC006C41A4 /* APICaller.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				0CE9348329F87DEC00BCCAEA /* SearchViewController.swift in Sources */,
 				0CE9346D29F8708D00BCCAEA /* MainTabBarViewController.swift in Sources */,
 				0CD611D829FDB68000CE8289 /* CollectionViewTableViewCell.swift in Sources */,
+				0CA1FA0C2A0711BC006C41A4 /* APICaller.swift in Sources */,
 				0CD611DA29FF189C00CE8289 /* HeroHeaderUIView.swift in Sources */,
 				0CE9348529F87E2400BCCAEA /* DownloadsViewController.swift in Sources */,
 				0CE9346929F8708D00BCCAEA /* AppDelegate.swift in Sources */,
