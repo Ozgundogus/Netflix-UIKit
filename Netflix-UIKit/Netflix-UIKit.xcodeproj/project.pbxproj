@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0C1C895E2A0E3D6C004F1930 /* Tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1C895D2A0E3D6C004F1930 /* Tv.swift */; };
+		0C0A99972A1820A000132D3A /* TitleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0A99962A1820A000132D3A /* TitleCollectionViewCell.swift */; };
 		0C380E0C2A0A4F1200C6F1C3 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C380E0B2A0A4F1200C6F1C3 /* Movie.swift */; };
 		0CA1FA0C2A0711BC006C41A4 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA1FA0B2A0711BC006C41A4 /* APICaller.swift */; };
 		0CD611D829FDB68000CE8289 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD611D729FDB68000CE8289 /* CollectionViewTableViewCell.swift */; };
@@ -25,7 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0C1C895D2A0E3D6C004F1930 /* Tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tv.swift; sourceTree = "<group>"; };
+		0C0A99962A1820A000132D3A /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
 		0C380E0B2A0A4F1200C6F1C3 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		0CA1FA0B2A0711BC006C41A4 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		0CD611D729FDB68000CE8289 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
@@ -60,6 +60,7 @@
 			children = (
 				0CD611D729FDB68000CE8289 /* CollectionViewTableViewCell.swift */,
 				0CD611D929FF189C00CE8289 /* HeroHeaderUIView.swift */,
+				0C0A99962A1820A000132D3A /* TitleCollectionViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -75,7 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				0C380E0B2A0A4F1200C6F1C3 /* Movie.swift */,
-				0C1C895D2A0E3D6C004F1930 /* Tv.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -213,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CE9348329F87DEC00BCCAEA /* SearchViewController.swift in Sources */,
+				0C0A99972A1820A000132D3A /* TitleCollectionViewCell.swift in Sources */,
 				0CE9346D29F8708D00BCCAEA /* MainTabBarViewController.swift in Sources */,
 				0CD611D829FDB68000CE8289 /* CollectionViewTableViewCell.swift in Sources */,
 				0CA1FA0C2A0711BC006C41A4 /* APICaller.swift in Sources */,
@@ -223,7 +224,6 @@
 				0CE9346B29F8708D00BCCAEA /* SceneDelegate.swift in Sources */,
 				0C380E0C2A0A4F1200C6F1C3 /* Movie.swift in Sources */,
 				0CE9348029F87DBB00BCCAEA /* UpcomingViewController.swift in Sources */,
-				0C1C895E2A0E3D6C004F1930 /* Tv.swift in Sources */,
 				0CE9347E29F8746D00BCCAEA /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
