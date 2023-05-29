@@ -20,5 +20,229 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "214BB11D-4E8A-4CDC-AAA4-8EA7F56DB4F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "214BB11D-4E8A-4CDC-AAA4-8EA7F56DB4F6 - fac27681a238a993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "214BB11D-4E8A-4CDC-AAA4-8EA7F56DB4F6 - fac27681a238a993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17C2A8E3-724B-4287-96D5-9678E8B55767"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17C2A8E3-724B-4287-96D5-9678E8B55767 - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "17C2A8E3-724B-4287-96D5-9678E8B55767 - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32C688DD-7D4C-45E8-8A0D-CFD122A8F057"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3351E437-FC51-4689-9614-953307844854"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FB87515-BA23-47D9-BA9C-12E5B11D7E1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FB87515-BA23-47D9-BA9C-12E5B11D7E1E - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "1FB87515-BA23-47D9-BA9C-12E5B11D7E1E - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F38176-ED50-48D4-8358-5159B1389CB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix-UIKit/View/TitleCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41F38176-ED50-48D4-8358-5159B1389CB7 - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "41F38176-ED50-48D4-8358-5159B1389CB7 - fac27681a238a9b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_UIKit.TitleCollectionViewCell.configure(with: Swift.String) -&gt; ()"
+                  moduleName = "Netflix-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ozgundogus/SwiftProjects/Netflix-UIKit/Netflix-UIKit/Netflix-UIKit/View/TitleCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
