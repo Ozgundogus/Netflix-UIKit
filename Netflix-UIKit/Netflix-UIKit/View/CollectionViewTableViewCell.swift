@@ -60,7 +60,7 @@ extension  CollectionViewTableViewCell : UICollectionViewDelegate, UICollectionV
             
            return UICollectionViewCell()
         }
-        
+        print(model)
         cell.configure(with: model)
         return cell
     }
