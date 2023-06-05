@@ -34,7 +34,7 @@ class UpcomingViewController: UIViewController {
 
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        upcomingTable.frame = view.bounds
+        upcomingTable.frame = view.bounds // view'in yerleştirme (layout) işlemlerinin tamamlanmış olması ve view'in boyutlarının güncellenmiş olması gerektiği için viewDidLayoutSubviews() içerisine yazılır.
     }
     
     private func fetchUpcoming () {
